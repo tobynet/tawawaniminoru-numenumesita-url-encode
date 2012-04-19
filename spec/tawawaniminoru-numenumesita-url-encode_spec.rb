@@ -52,8 +52,4 @@ describe "TawawaniminoruNumenumesitaUrlEncode" do
       URI.encode_www_form_component(before).should == escape_for_uri(after)
     end
   end
-
-  it "test failed" do
-    fail "failed test this is no problem..."
-  end
 end
