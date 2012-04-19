@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "tawawaniminoru-numenumesita-url-encode"
   gem.homepage = "http://github.com/toooooooby/tawawaniminoru-numenumesita-url-encode"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{testing for URL encode}
+  gem.description = %Q{URI.escape is obsolete or not?????????}
   gem.email = "toby.net.info.mail+git@gmail.com"
   gem.authors = ["toooooooby"]
   # dependencies defined in Gemfile
