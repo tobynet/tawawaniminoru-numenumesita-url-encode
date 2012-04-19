@@ -10,6 +10,8 @@ group :development do
   gem "rdoc", "~> 3.12"
   gem "jeweler", "~> 1.8.3"
 
+  gem "rack", "~> 1.4.1"
+
   gem 'guard', "~> 1.0"
   gem "guard-rspec", "~> 0.7.0"
   # for guard notify
