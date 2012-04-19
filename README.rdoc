@@ -1,6 +1,6 @@
 = tawawaniminoru-numenumesita-url-encode
 
-{<img src="https://secure.travis-ci.org/toooooooby/tawawaniminoru-numenumesita-url-encode.png?branch=master" alt="Build Status" width="300%" height="300%"/>}[http://travis-ci.org/toooooooby/tawawaniminoru-numenumesita-url-encode]
+{<img src="https://secure.travis-ci.org/toooooooby/tawawaniminoru-numenumesita-url-encode.png?branch=master" alt="Build Status" width="100%"/>}[http://travis-ci.org/toooooooby/tawawaniminoru-numenumesita-url-encode]
 
 We called him "URL encode". 
 This is project for some testings of him.
