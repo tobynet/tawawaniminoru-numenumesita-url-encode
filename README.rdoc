@@ -1,6 +1,7 @@
 = tawawaniminoru-numenumesita-url-encode
 
-Description goes here.
+We called him "URL encode". 
+This is project for some testings of him.
 
 == Contributing to tawawaniminoru-numenumesita-url-encode
  
