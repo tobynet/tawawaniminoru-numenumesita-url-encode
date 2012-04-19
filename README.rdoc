@@ -1,5 +1,7 @@
 = tawawaniminoru-numenumesita-url-encode
 
+[![Build Status](https://secure.travis-ci.org/toooooooby/tawawaniminoru-numenumesita-url-encode.png?branch=master)](http://travis-ci.org/toooooooby/tawawaniminoru-numenumesita-url-encode)
+
 We called him "URL encode". 
 This is project for some testings of him.
 
