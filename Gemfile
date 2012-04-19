@@ -9,4 +9,9 @@ group :development do
   gem "rspec", "~> 2.8.0"
   gem "rdoc", "~> 3.12"
   gem "jeweler", "~> 1.8.3"
+
+  gem 'guard', "~> 1.0"
+  gem "guard-rspec", "~> 0.7.0"
+  # for guard notify
+  gem "libnotify", "~> 0.7.2"
 end
