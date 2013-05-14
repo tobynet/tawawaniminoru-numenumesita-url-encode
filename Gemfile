@@ -1,4 +1,4 @@
-source 'http://rubygems.org/'
+source 'https://rubygems.org/'
 # Add dependencies required to use your gem here.
 # Example:
 #   gem "activesupport", ">= 2.3.5"
@@ -15,7 +15,7 @@ end
 
 group :development do
   gem 'guard', "~> 1.0"
-  gem "guard-rspec", "~> 2.6"
+  gem "guard-rspec", "~> 3.0"
   # for guard notify
   gem "libnotify", "~> 0.8"
 end
