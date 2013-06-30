@@ -5,7 +5,7 @@ source 'https://rubygems.org/'
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
-gem "rake", "~> 10.0"
+gem "rake", "~> 10.1"
 group :test do
   gem "rspec", "~> 2.13"
   gem "jeweler", "~> 1.8.4"
