@@ -8,14 +8,5 @@ source 'https://rubygems.org/'
 gem "rake"
 group :test do
   gem "rspec", "~> 2.13"
-  gem "jeweler", "~> 1.8.4"
-
   gem "rack", "~> 1.5"
-end
-
-group :development do
-  gem 'guard', "~> 1.0"
-  gem "guard-rspec", "~> 3.0"
-  # for guard notify
-  gem "libnotify", "~> 0.8"
 end
