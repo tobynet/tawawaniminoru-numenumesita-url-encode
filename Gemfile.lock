@@ -93,5 +93,5 @@ DEPENDENCIES
   jeweler (~> 1.8.4)
   libnotify (~> 0.8)
   rack (~> 1.5)
-  rake (~> 10.1)
+  rake
   rspec (~> 2.13)
