@@ -1,8 +1,8 @@
 = tawawaniminoru-numenumesita-url-encode
 
-{<img src="http://hitode909.appspot.com/glitch/api?uri=https%3A%2F%2Fapi.travis-ci.org%2Ftoooooooby%2Ftawawaniminoru-numenumesita-url-encode.png" alt="Build Status" width="50%"/>}[http://travis-ci.org/toooooooby/tawawaniminoru-numenumesita-url-encode]
-{<img src="https://gemnasium.com/toooooooby/tawawaniminoru-numenumesita-url-encode.png" alt="Dependency Status" width="50%"/>}[https://gemnasium.com/toooooooby/tawawaniminoru-numenumesita-url-encode]
-{<img src="https://codeclimate.com/github/toooooooby/kagami.png" width="50%"/>}[https://codeclimate.com/github/toooooooby/kagami]
+{<img src="http://hitode909.appspot.com/glitch/api?uri=https%3A%2F%2Fapi.travis-ci.org%2Ftobynet%2Ftawawaniminoru-numenumesita-url-encode.png" alt="Build Status" width="50%"/>}[http://travis-ci.org/tobynet/tawawaniminoru-numenumesita-url-encode]
+{<img src="https://gemnasium.com/tobynet/tawawaniminoru-numenumesita-url-encode.svg" alt="Dependency Status" width="50%"/>}[https://gemnasium.com/tobynet/tawawaniminoru-numenumesita-url-encode]
+{<img src="https://codeclimate.com/github/tobynet/kagami.png" width="50%"/>}[https://codeclimate.com/github/tobynet/kagami]
 
 We called him "URL encode". 
 This is project for some testings of him.
