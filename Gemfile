@@ -8,5 +8,5 @@ source 'https://rubygems.org/'
 gem "rake"
 group :test do
   gem "rspec", "~> 2.13"
-  gem "rack", "~> 1.5"
+  gem "rack", "~> 2.1"
 end
